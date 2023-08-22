@@ -1,5 +1,5 @@
 # calculator
 
 
-simple calculator
-JavaScript 
+calculator with dark and light mode.
+JavaScript + react
