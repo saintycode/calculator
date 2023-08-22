@@ -2,4 +2,4 @@
 
 
 simple calculator
-JavaScript 
+JavaScript with react
