@@ -1,6 +1,27 @@
 {
-     "dependencies": {
-       "react": "latest",
-"react-dom": "latest"
-     }
-   }
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A polished, mobile-responsive calculator with light and dark mode built with React",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "dev": "react-scripts start"
+  },
+  "keywords": ["calculator", "react", "dark-mode", "responsive", "tailwind"],
+  "author": "saintycode",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saintycode/calculator"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^2.2.19"
+  }
+}
